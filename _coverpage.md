@@ -2,3 +2,4 @@
 
 <a href="https://github.com/SmallWhite-yp/docsify">Github</a>
 <a href="#README">Get Started</a>
+<a href="https://le.xiaole.club/">chat gpt</a>
