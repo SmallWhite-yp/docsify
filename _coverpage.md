@@ -1,4 +1,4 @@
-# docsify website sample <small>0.0.1</small>
+# lep的精神世界
 
-<a href="https://github.com/lexmin0412/docsify-website-sample">Github</a>
+<a href="https://github.com/SmallWhite-yp/docsify">Github</a>
 <a href="#README">Get Started</a>
