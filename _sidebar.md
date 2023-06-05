@@ -1,2 +1,2 @@
-- 精神世界
-  - [概述](/README.md)
+- [关于我](/README.md)
+- [记录生活](/word/word.md)
