@@ -1,4 +1,4 @@
 - [关于我](/README.md)
 - [设计模式](/java/designPattern.md)
-- [工作笔记](/java/work.md)
+- [工作笔记](/work/javaWork.md)
 - [记录生活](/word/word.md)
